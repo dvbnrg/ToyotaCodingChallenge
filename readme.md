@@ -69,7 +69,7 @@ Dependencies need to be managed if you use any external libraries.
 Solution must be able to be readily run or deployed and of production quality. Twelve-Factor app in
 short.
 
-Ideal time to complete this challenge is 8 hours.
+Ideal time to complete this challenge is 8 hours. (https://www.hundredlifedesign.com/how-to-manage-expectations-in-life/)
 
 --------------------------
 
