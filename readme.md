@@ -60,7 +60,7 @@ Rules
 
 Golang must be used to complete the challenge.
 
-No code generators must be used. (lol, try gRPC ;)
+No code generators must be used. (try gRPC ;)
 
 Avoid using external libraries and if you use so, please justify their use. 
 
